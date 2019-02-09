@@ -1,4 +1,4 @@
-NAME = ubuntu-desktop-libvirt-creator
+NAME = debian-9-libvirt-creator
 
 default:
 

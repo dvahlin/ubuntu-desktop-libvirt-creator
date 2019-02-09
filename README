@@ -1,4 +1,4 @@
-        UBUNTU-DESKTOP-LIBVIRT-CREATOR - Ubuntu Desktop Libvirt Creator
+        DEBIAN-9-LIBVIRT-CREATOR - Debian 9 Libvirt Creator
 
 https://github.com/mattias-ohlsson/ubuntu-desktop-libvirt-creator
 
@@ -8,10 +8,9 @@ INSTALL
 
 UNINSTALL
 
-    rm -f /usr/bin/ubuntu-desktop-libvirt-creator
-    rm -rf /usr/lib/ubuntu-desktop-libvirt-creator
+    rm -f /usr/bin/debian-9-libvirt-creator
+    rm -rf /usr/lib/debian-9-libvirt-creator
 
 PASSWORDS
 
   - root: Pass@word01
-  - user: Pass@word01
