@@ -1,0 +1,17 @@
+        UBUNTU-DESKTOP-LIBVIRT-CREATOR - Ubuntu Desktop Libvirt Creator
+
+https://github.com/mattias-ohlsson/ubuntu-desktop-libvirt-creator
+
+INSTALL
+
+    make install
+
+UNINSTALL
+
+    rm -f /usr/bin/ubuntu-desktop-libvirt-creator
+    rm -rf /usr/lib/ubuntu-desktop-libvirt-creator
+
+PASSWORDS
+
+  - root: Pass@word01
+  - user: Pass@word01
